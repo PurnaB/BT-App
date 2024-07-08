@@ -19,8 +19,10 @@ Language Compiler/Interpreter Version:
    After processing all entries, it iterates over the session map to calculate the final durations for sessions that didn't end within the log period and prints the results.
 
 Running the Java program:
+
  Compile the program
    javac <class_name> (javac BillingLogSessionProcess.java)
+   
  Run the program with the log file path as an argument:
    java BillingLogSessionProcess  <argument> (path/to/logfile.log)
 
