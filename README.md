@@ -1,7 +1,10 @@
 # BT-App
 Processing the Log File
+
 Language Compiler/Interpreter Version:
-  Java JDK 17 (Java 17 latest version)
+
+Java JDK 17 (Java 17 latest version)
+  
 1. Log Lines Parsing:
      The getParseDateAndTime function parses the time strings into Date objects using SimpleDateFormat (java.text.SimpleDateFormat).
    
