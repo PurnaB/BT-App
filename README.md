@@ -1,5 +1,5 @@
 # BT-App
-Processing the Log File
+**Processing the Log File**
 
 Language Compiler/Interpreter Version:
 
@@ -21,7 +21,7 @@ Java JDK 17 (Java 17 latest version)
 4. Producing the Results:
    After processing all entries, it iterates over the session map to calculate the final durations for sessions that didn't end within the log period and prints the results.
 
-Running the Java program:
+**Running the Java program**
 
  Compile the program
    javac <class_name> (javac BillingLogSessionProcess.java)
