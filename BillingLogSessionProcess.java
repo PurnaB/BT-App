@@ -1,5 +1,4 @@
-package com.shu.shupractice.app.bt;
-
+package com.shu.shupractice.app.bt; // this is my custom package.
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
